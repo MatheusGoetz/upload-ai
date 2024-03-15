@@ -1,0 +1,6 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
+    "[prisma]": {
+        "editor.formatOnSave": true
+    }
+}
